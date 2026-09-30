@@ -40,10 +40,22 @@ No GitHub estão reunidos os trabalhos da licenciatura e projetos pessoais (SaaS
 - Assistente conversacional com **IA** para gestão multi-loja
 - Stack: **LLAMA**, **Django Rest Framework**, **PostgreSQL**, NLP
 
-### Programador Informático (FCT) — Asociación Arrabal-AID
+### Programador Informático (Estágio) — RISI Expert Software Solutions
+`jun 2022 — jul 2022` · Santa Maria da Feira
+
+- Desenvolvimento de software em contexto empresarial
+- Stack: **Visual Basic .NET**, **Microsoft SQL Server**
+
+### Programador Informático (Erasmus / FCT) — Asociación Arrabal-AID
 `abr 2022 — mai 2022` · Málaga, Espanha
 
 - App interativa (HTML, CSS, JavaScript) com jogo educativo sobre os **ODS**
+
+### Programador Informático (Estágio) — RISI Expert Software Solutions
+`jun 2021` · Santa Maria da Feira
+
+- Primeiro contacto com desenvolvimento em ambiente profissional
+- Stack: **Visual Basic .NET**, **Microsoft SQL Server**
 
 ## Education
 
@@ -61,6 +73,8 @@ No GitHub estão reunidos os trabalhos da licenciatura e projetos pessoais (SaaS
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="VB.NET" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
