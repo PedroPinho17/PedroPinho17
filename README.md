@@ -7,7 +7,7 @@ Desenvolvedor web de Portugal 🇵🇹 — websites, portais e plataformas SaaS.
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropinho19/)
 
 ## Languages and Tools
 
