@@ -160,7 +160,7 @@ No GitHub estão reunidos os trabalhos da licenciatura e projetos pessoais (SaaS
 Trabalhos e projetos das unidades curriculares ao longo do curso:
 
 **2024/2025**
-- [IA](https://github.com/PedroPinho17/IA_2024_2025) · [CMU](https://github.com/PedroPinho17/CMU_2024_2025) · [SD](https://github.com/PedroPinho17/SD_2024_2025) · [LDS](https://github.com/PedroPinho17/LDS_2024_2025) · [SI](https://github.com/PedroPinho17/SI_2024_2025) · [NG](https://github.com/PedroPinho17/NG_2024_2025)
+- [IA](https://github.com/PedroPinho17/IA_2024_2025) · [CMU](https://github.com/PedroPinho17/CMU_2024_2025) · [SD](https://github.com/PedroPinho17/SD_2024_2025) · [LDS](https://github.com/PedroPinho17/LDS_2024_2025) · [SI](https://github.com/PedroPinho17/SI_2024_2025) · [NG](https://github.com/PedroPinho17/NG_2024_2025) · **[PF — Projeto final](https://github.com/PedroPinho17/PF_2024_2025)**
 
 **2023/2024**
 - [PAW](https://github.com/PedroPinho17/PAW_2023_2024) · [BD](https://github.com/PedroPinho17/BD_2023_2024) · [ED](https://github.com/PedroPinho17/ED_2023_2024) · [ESII](https://github.com/PedroPinho17/ESII_2023_2024) · [SO](https://github.com/PedroPinho17/SO_2023_2024) · [AAO](https://github.com/PedroPinho17/AAO_2023_2024) · [RC](https://github.com/PedroPinho17/RC_2023_2024) · [GPI](https://github.com/PedroPinho17/GPI_2023_2024) · [MCII](https://github.com/PedroPinho17/MCII_2023_2024) · [PEI](https://github.com/PedroPinho17/PEI_2023_2024)
