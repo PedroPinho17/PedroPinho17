@@ -88,6 +88,7 @@ No GitHub estão reunidos os trabalhos da licenciatura e projetos pessoais (SaaS
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 </p>
@@ -129,6 +130,7 @@ No GitHub estão reunidos os trabalhos da licenciatura e projetos pessoais (SaaS
 
 <p>
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
@@ -144,26 +146,16 @@ No GitHub estão reunidos os trabalhos da licenciatura e projetos pessoais (SaaS
 
 ## Projetos em destaque
 
-### Profissionais / pessoais
+- [**multistore-ai-assistant**](https://github.com/PedroPinho17/multistore-ai-assistant) — assistente de IA para um grupo de restauração multimarca: perguntas em PT/EN/ES/FR → SQL seguro em PostgreSQL com row-level security (40/40 no benchmark de text-to-SQL), RAG com pgvector, classificador de intenção XLM-R fine-tuned (97,8 %), previsão de vendas com ML, FastAPI + Vue + Docker, 810 testes
 - [**Radar**](https://github.com/PedroPinho17/Radar) — assistente de procura de emprego com IA: junta ofertas de sites de emprego portugueses, pontua cada uma de 0 a 100 face ao teu perfil e envia as melhores por email, Next.js + NestJS + Gemini/Groq
-- [**salary-predictor**](https://github.com/PedroPinho17/salary-predictor) — modelo de ML treinado com 14,6 mil respostas do Stack Overflow Survey 2025 para prever salários de developers na Europa e nos EUA, FastAPI + scikit-learn + PostgreSQL
+- [**salary-predictor**](https://github.com/PedroPinho17/salary-predictor) — modelo de ML treinado com 14,6 mil respostas do Stack Overflow Survey 2025 para prever salários de developers na Europa e nos EUA, FastAPI + scikit-learn + PostgreSQL · [demo online](https://salary-predictor-el8i.onrender.com)
 - [**calorie-tracker**](https://github.com/PedroPinho17/calorie-tracker) — foto da refeição → calorias e macros com IA (Gemini + INSA/USDA), NestJS + Next.js + Expo
 - [**pdf-assistant**](https://github.com/PedroPinho17/pdf-assistant) — chat com PDFs (RAG) com pesquisa híbrida, respostas em streaming e citações por página, Next.js + NestJS + pgvector
 - [**ClubOS**](https://github.com/PedroPinho17/ClubOS) — plataforma SaaS multi-tenant para clubes e organizações
 - [**corujinha-web**](https://github.com/PedroPinho17/corujinha-web) — website e CMS para um centro de explicações, com passkeys, controlo de acessos por perfil e ferramentas de RGPD (Next.js + NestJS)
-- [**Portal-Coruja**](https://github.com/PedroPinho17/Portal-Coruja) — website da Corujinha
-- [**VHTEAMFIGHTERS**](https://github.com/PedroPinho17/VHTEAMFIGHTERS) — projeto web
-- [**CDA**](https://github.com/PedroPinho17/CDA) — website do Clube Desportivo Arrifanense (PAP / TGPSI)
+
+<sub>Projetos anteriores: [CDA](https://github.com/PedroPinho17/CDA) (PAP / TGPSI) · [VHTEAMFIGHTERS](https://github.com/PedroPinho17/VHTEAMFIGHTERS)</sub>
 
 ### Licenciatura em Engenharia Informática (ESTG)
 
-Trabalhos e projetos das unidades curriculares ao longo do curso:
-
-**2024/2025**
-- [IA](https://github.com/PedroPinho17/IA_2024_2025) · [CMU](https://github.com/PedroPinho17/CMU_2024_2025) · [SD](https://github.com/PedroPinho17/SD_2024_2025) · [LDS](https://github.com/PedroPinho17/LDS_2024_2025) · [SI](https://github.com/PedroPinho17/SI_2024_2025) · [NG](https://github.com/PedroPinho17/NG_2024_2025) · **[PF — Projeto final](https://github.com/PedroPinho17/PF_2024_2025)**
-
-**2023/2024**
-- [PAW](https://github.com/PedroPinho17/PAW_2023_2024) · [BD](https://github.com/PedroPinho17/BD_2023_2024) · [ED](https://github.com/PedroPinho17/ED_2023_2024) · [ESII](https://github.com/PedroPinho17/ESII_2023_2024) · [SO](https://github.com/PedroPinho17/SO_2023_2024) · [AAO](https://github.com/PedroPinho17/AAO_2023_2024) · [RC](https://github.com/PedroPinho17/RC_2023_2024) · [GPI](https://github.com/PedroPinho17/GPI_2023_2024) · [MCII](https://github.com/PedroPinho17/MCII_2023_2024) · [PEI](https://github.com/PedroPinho17/PEI_2023_2024)
-
-**2022/2023**
-- [LP](https://github.com/PedroPinho17/LP_2022_2023) · [PP](https://github.com/PedroPinho17/PP_2022_2023) · [MD](https://github.com/PedroPinho17/MD_2022_2023) · [ESI](https://github.com/PedroPinho17/ESI_2022_2023)
+**[Projeto final](https://github.com/PedroPinho17/PF_2024_2025)** (assistente de IA text-to-SQL, estágio na StoresAce) · Unidades curriculares: [IA](https://github.com/PedroPinho17/IA_2024_2025) · [CMU](https://github.com/PedroPinho17/CMU_2024_2025) · [SD](https://github.com/PedroPinho17/SD_2024_2025) · [LDS](https://github.com/PedroPinho17/LDS_2024_2025) · [SI](https://github.com/PedroPinho17/SI_2024_2025) · [NG](https://github.com/PedroPinho17/NG_2024_2025) · [PAW](https://github.com/PedroPinho17/PAW_2023_2024) · [BD](https://github.com/PedroPinho17/BD_2023_2024) · [ED](https://github.com/PedroPinho17/ED_2023_2024) · [ESII](https://github.com/PedroPinho17/ESII_2023_2024) · [SO](https://github.com/PedroPinho17/SO_2023_2024) · [AAO](https://github.com/PedroPinho17/AAO_2023_2024) · [RC](https://github.com/PedroPinho17/RC_2023_2024) · [GPI](https://github.com/PedroPinho17/GPI_2023_2024) · [MCII](https://github.com/PedroPinho17/MCII_2023_2024) · [PEI](https://github.com/PedroPinho17/PEI_2023_2024) · [LP](https://github.com/PedroPinho17/LP_2022_2023) · [PP](https://github.com/PedroPinho17/PP_2022_2023) · [MD](https://github.com/PedroPinho17/MD_2022_2023) · [ESI](https://github.com/PedroPinho17/ESI_2022_2023)
